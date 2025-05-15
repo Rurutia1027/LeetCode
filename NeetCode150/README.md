@@ -17,28 +17,28 @@ A structured roadmap to master core algorithm patterns through the NeetCode 150 
 
 ## 🏠 Kin-CAP-SAC Variants (Robbery & Cooldown)
 
-- [ ] 198. House Robber
-- [ ] 213. House Robber II
-- [ ] 309. Best Time to Buy and Sell Stock with Cooldown
-- [ ] 337. House Robber III
+- [ x ] 198. House Robber
+- [ x ] 213. House Robber II
+- [ x ] 309. Best Time to Buy and Sell Stock with Cooldown
+- [ x ] 337. House Robber III
 
 ---
 
 ## ✂️ Distance & LCS Variants
 
-- [ ] 72. Edit Distance
-- [ ] 1143. Longest Common Subsequence
-- [ ] 97. Interleaving String
-- [ ] 115. Distinct Subsequences
+- [ x ] 72. Edit Distance
+- [ x ] 1143. Longest Common Subsequence
+- [ x ] 97. Interleaving String
+- [ x ] 115. Distinct Subsequences
 
 ---
 
 ## ⛓️ Subsequence & Subarray Patterns
 
-- [ ] 53. Maximum Subarray
-- [ ] 152. Maximum Product Subarray
-- [ ] 300. Longest Increasing Subsequence
-- [ ] 91. Decode Ways
+- [ x ] 53. Maximum Subarray
+- [ x ] 152. Maximum Product Subarray
+- [ x ] 300. Longest Increasing Subsequence
+- [ x ] 91. Decode Ways
 
 ---
 
